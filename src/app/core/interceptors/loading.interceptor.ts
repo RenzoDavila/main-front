@@ -7,7 +7,7 @@ import {
 import { Injectable } from '@angular/core';
 import { Router } from '@angular/router';
 import { finalize, Observable } from 'rxjs';
-import { LoadingService } from 'src/app/services/spinner.service';
+import { LoadingService } from 'src/app/shared/services/loading.service';
 
 @Injectable()
 export class LoadingInterceptor implements HttpInterceptor {

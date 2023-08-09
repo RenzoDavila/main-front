@@ -31,7 +31,7 @@
             ],
             "styles": [
               "src/styles.sass",
-              "node_modules/bootswatch/dist/morph/bootstrap.min.css",
+              "node_modules/bootswatch/dist/cosmo/bootstrap.min.css",
               "node_modules/ngx-toastr/toastr.css"
             ],
             "scripts": []
